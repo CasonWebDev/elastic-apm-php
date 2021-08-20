@@ -1,5 +1,5 @@
 {
-    "name": "CasonWebDev/elastic-apm-php",
+    "name": "casonwebdev/elastic-apm-php",
     "description": "elastic/apm-agent-php wrapper to push PHP application transactions to APM Server",
     "type": "library",
     "license": "MIT",
